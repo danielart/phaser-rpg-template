@@ -12,6 +12,8 @@ A small template to create a RPG with tiled maps in PhaserJS 3. This will allow 
 
 This quick-start project template combines Phaser 3.55.2 with [TypeScript 4.8](https://www.typescriptlang.org/) and uses [Rollup 2.77](https://rollupjs.org) for bundling.
 
+![The interior of a government agency building. ](./src/assets/images/in-game.gif)
+
 ## Requirements
 
 [Node.js (^14.19.0)](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
