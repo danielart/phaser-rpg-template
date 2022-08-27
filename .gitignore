@@ -1,0 +1,12 @@
+# System and IDE files
+Thumbs.db
+.DS_Store
+.idea
+*.tiled-session
+*.tmj
+dist/
+# Vendors
+node_modules/
+
+# Build
+/npm-debug.log
